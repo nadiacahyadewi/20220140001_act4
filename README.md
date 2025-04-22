@@ -1,16 +1,10 @@
-# play_navigation
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Login page
+   ![Uploading Screenshot_1745335549.png…]()
+2. Register Page
+   ![Screenshot_1745335664](https://github.com/user-attachments/assets/ea3ce048-1928-4bae-b69e-d93702e15d63)
+3. Home Page
+   ![Screenshot_1745335690](https://github.com/user-attachments/assets/36d24660-2547-411a-b8de-bb53067f05d4)
+4. Order Page
+   ![Screenshot_1745335732](https://github.com/user-attachments/assets/a2eb1a26-8487-4911-bbb1-072ef5134992)
+5. Detail order page
+   ![Screenshot_1745335752](https://github.com/user-attachments/assets/a4517ab0-4e4a-4506-8652-8b85eef5c0ca)
